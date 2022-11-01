@@ -292,9 +292,11 @@ public class LoopsApp {
 
 **ControlFlowApp:**
 
+
 package com.beginner.controlflow;
 
 public class ControlFlowApp {
+
     public static void main(String[] args) {
         boolean isDamaged = false;
         String carColor = "purple";
@@ -337,15 +339,15 @@ public class ControlFlowApp {
         }
     }
 }
-
-
 --------------------------------------------------
 
 **Methods:**
 
 package com.beginner.methods;
 
+
 public class FunctionApp {
+
     public static void main(String[] args) {
         sayHello();
         blackboardPunishment(5);
