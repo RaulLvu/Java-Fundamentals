@@ -1,7 +1,6 @@
 # Java-Fundamentals
 
-
-Below are some code wich I studyed on previous course:
+Below is some code which I studied in previous course:
 
 
 ![Code source](https://user-images.githubusercontent.com/114149873/199276576-e21755b0-5af1-4545-8ba3-cf74249b4864.jpg)
