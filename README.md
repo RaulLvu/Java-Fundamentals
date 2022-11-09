@@ -1,6 +1,6 @@
 # Java-Fundamentals
 
-Below is some code that I studied in a previous course:
+Below it's some lessons that I studied and understood in a previous course:
 
 
 ![Code source](https://user-images.githubusercontent.com/114149873/199276576-e21755b0-5af1-4545-8ba3-cf74249b4864.jpg)
@@ -174,7 +174,7 @@ public class ObjectReferencesApp {
 -----------------------
  **Operators:**
 
-ackage com.beginner.operators;
+package com.beginner.operators;
 
 public class OperatorsApp {
 
