@@ -8,7 +8,7 @@ Below it's some lessons that I studied and understood in a previous course:
 
 **Data types - Primitives – CODING:**
 
-package com.beginner.datatypes.primitives;
+
 
 public class MyFirstJavaApp {
 
@@ -72,7 +72,7 @@ public class MyFirstJavaApp {
 
 **Data types - Primitives Conversion:**
 
-package com.beginner.datatypes.primitives;
+
 
 public class MyFirstJavaApp {
 
@@ -135,7 +135,7 @@ public class MyFirstJavaApp {
 -------------------------------------------------
 **Data types - Object references:**
 
-package com.beginner.datatypes.object.references;
+
 
 public class ObjectReferencesApp {
     public static void main(String[] args) {
@@ -174,7 +174,7 @@ public class ObjectReferencesApp {
 -----------------------
  **Operators:**
 
-package com.beginner.operators;
+
 
 public class OperatorsApp {
 
@@ -249,7 +249,7 @@ public class OperatorsApp {
 
 **Loops:**
 
-package com.beginner.loops;
+
 
 public class LoopsApp {
     public static void main(String[] args) {
@@ -292,7 +292,7 @@ public class LoopsApp {
 **ControlFlowApp:**
 
 
-package com.beginner.controlflow;
+
 
 public class ControlFlowApp {
 
@@ -342,7 +342,7 @@ public class ControlFlowApp {
 
 **Methods:**
 
-package com.beginner.methods;
+
 
 
 public class FunctionApp {
@@ -419,7 +419,7 @@ public class FunctionApp {
 
 **Arrays:**
 
-package com.beginner.arrays;
+
 
 public class ArraysApp {
     public static void main(String[] args) {
