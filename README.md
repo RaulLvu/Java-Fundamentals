@@ -139,6 +139,7 @@ public class MyFirstJavaApp {
 
 public class ObjectReferencesApp {
     public static void main(String[] args) {
+    
         Byte numberOfSeats = 5;
         Short horsePower = 392;
         Integer price = 14999;
@@ -252,6 +253,7 @@ public class OperatorsApp {
 
 
 public class LoopsApp {
+
     public static void main(String[] args) {
         int i = 1;
         while (i <= 0){
@@ -422,7 +424,9 @@ public class FunctionApp {
 
 
 public class ArraysApp {
+
     public static void main(String[] args) {
+    
         int[] lotteryNumbers = new int[5];
 
         lotteryNumbers[0] = 17;
